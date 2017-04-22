@@ -1,0 +1,55 @@
+    #protabs {
+        display: block;
+        float: left;
+        width: 100%;
+    }
+    .propanel {
+        border: 0px;
+        font-family:tahoma;
+        font-size:20px;
+        border-top: none;
+        background-color: #FFFFFF;
+        padding: 0px;
+        padding-bottom: 7px;
+        width: 100%;
+        overflow: auto;
+        clear: left;
+    }
+    .protab_bdr {
+        padding: 0px;
+        width: auto;
+        border: none;
+        height: 4px;
+        margin:0px;
+        background: #CCCCCC;
+        clear: left;
+        font-size: 0px;
+    }
+    .protab {
+        font-family: tahoma;
+        font-size: 15px;
+        background:transparent;
+        color: #333;
+        cursor: pointer;
+        border: 1px solid #333;
+        height: 31px;
+        padding-top: 5px;
+        margin: 4px;
+        width: 90px;
+        float: left;
+        text-decoration: none;
+    }
+    .protab_sel {
+        font-family: tahoma;
+        font-size: 14px;
+        background: #CCCCCC;
+        color: #FFFFFF;
+        cursor: pointer;
+        border: 1px solid #333;
+        height: 31px;
+        padding-top: 6px;
+        margin: 4px;
+        width:84px;
+        float: left;
+        text-decoration: none;
+    }
